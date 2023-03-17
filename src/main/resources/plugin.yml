@@ -1,0 +1,8 @@
+name: CowmunicatorPlugin
+version: '${project.version}'
+main: me.penguining.cowmunicatorplugin.CowmunicatorPlugin
+api-version: 1.19
+description: CowmunicatorPlugin
+commands:
+  cowmunicator:
+    description: Summons a cow-municator
